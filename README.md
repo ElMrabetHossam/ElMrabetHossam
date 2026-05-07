@@ -169,7 +169,7 @@ End-to-end computer vision pipeline for **vehicle tracking and safety scoring** 
 
 🎯 *Real-world dataset · production-grade ML pipeline.*
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/ElMrabetHossam/Driving-Behavior-Analysis)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/ElMrabetHossam/Driver_Analysis_Project)
 ![Status](https://img.shields.io/badge/Status-Active-22C55E?style=flat-square)
 
 </td>
