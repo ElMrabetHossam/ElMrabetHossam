@@ -184,7 +184,7 @@ Full Stack financial management app built during my **Diginova** internship. Sec
 
 🎯 *Shipped end-to-end under Agile/Scrum.*
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/ElMrabetHossam/BudgetApp)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/ElMrabetHossam/budget-app)
 ![Status](https://img.shields.io/badge/Status-Shipped-22C55E?style=flat-square)
 
 </td>
