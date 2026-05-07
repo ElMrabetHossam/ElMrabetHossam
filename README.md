@@ -1,10 +1,3 @@
-<!--
-  GITHUB PROFILE README — ElMrabetHossam
-  This file goes into a public repository named exactly: ElMrabetHossam
-  (i.e. https://github.com/ElMrabetHossam/ElMrabetHossam)
-  Rendered automatically on your profile page: https://github.com/ElMrabetHossam
--->
-
 <!-- ============================================ -->
 <!-- HEADER BANNER                                -->
 <!-- ============================================ -->
@@ -24,7 +17,7 @@
 <br/><br/>
 
 <a href="mailto:elmrabethossam@gmail.com"><img src="https://img.shields.io/badge/Email-elmrabethossam%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/hossam-el-mrabet/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hossam-el-mrabet-793b70367/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/ElMrabetHossam"><img src="https://img.shields.io/badge/Portfolio-View-111827?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Based%20in-Sal%C3%A9%2C%20Morocco-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
