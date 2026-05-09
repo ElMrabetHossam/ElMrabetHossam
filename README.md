@@ -40,6 +40,7 @@
 
 > **FR —** Je suis **Élève Ingénieur en Génie Logiciel** à l'**ENSA Kénitra** (4ème année, diplôme prévu en **2027–2028**). Mon profil est à la croisée de **l'ingénierie et du design** : développeur Full Stack et responsable de l'identité visuelle de plusieurs clubs étudiants. Je conçois des produits à la fois **techniquement solides** et **visuellement aboutis** — des API Spring Boot aux pipelines de Machine Learning, en passant par des interfaces soignées au pixel près.
 
+
 ```yaml
 name:       Hossam El Mrabet
 role:       Software Engineering Student · Full Stack Dev · UI/UX Designer
@@ -48,9 +49,9 @@ school:     ENSA Kénitra — Génie Logiciel (Specialization: Jan 2026)
 graduating: 2027 / 2028
 focus:      [ Spring Boot, React, Machine Learning, UI/UX ]
 languages:  [ Arabic (native), French (fluent), English (technical) ]
-fun_facts:  [ "fitness & bodybuilding", "League of Legends — Viego",
-              "Anime: Naruto, Dr. Stone, JJK", "fantasy RPG mage builds" ]
 ```
+
+
 
 <br/>
 
@@ -80,6 +81,8 @@ fun_facts:  [ "fitness & bodybuilding", "League of Legends — Viego",
 <p>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=swagger&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
@@ -102,6 +105,7 @@ fun_facts:  [ "fitness & bodybuilding", "League of Legends — Viego",
 <p>
 <img src="https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -121,6 +125,7 @@ fun_facts:  [ "fitness & bodybuilding", "League of Legends — Viego",
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
@@ -146,6 +151,28 @@ fun_facts:  [ "fitness & bodybuilding", "League of Legends — Viego",
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="22"/> Featured Projects · *Projets en Vedette*
 
 <table>
+
+<!-- ── SPOTLIGHT (full width) ── -->
+<tr>
+<td colspan="2" valign="top">
+
+### <img src="https://img.icons8.com/color/24/shopping-bag.png"/> Hirosoy Shop — Premium E-commerce &nbsp;<sub>★ Spotlight</sub>
+**`Next.js 16` · `Supabase` · `TypeScript` · `Tailwind v4` · `i18n FR/AR/EN`**
+
+Production-grade e-commerce platform built **end-to-end** for a Moroccan streetwear brand. Trilingual storefront with **full RTL Arabic support**, live stock management synced with Supabase, password-protected admin dashboard (orders · stock · delivery cities full CRUD), and a luxe minimalist UI engineered for a **non-technical client** — zero Supabase console required after launch.
+
+24h auto-expiring admin sessions, automatic stock restoration on refused orders, mobile-first with 44×44 px touch targets, iOS zoom prevention, and sticky checkout CTA with safe-area-inset support.
+
+🎯 *End-to-end design + engineering · Production · Continuous deployment via Vercel.*
+
+[![Live Site](https://img.shields.io/badge/Live_Site-000000?style=flat-square&logo=vercel&logoColor=white)](https://zouhir-shop.vercel.app)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/ElMrabetHossam/zouhir-shop)
+![Status](https://img.shields.io/badge/Status-Production-22C55E?style=flat-square)
+
+</td>
+</tr>
+
+<!-- ── 2×2 GRID below ── -->
 <tr>
 <td width="50%" valign="top">
 
@@ -245,13 +272,16 @@ Full overhaul of the **ENSA Kénitra** institutional website — UX audit, redes
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24"/> Currently · *Actuellement*
 
+
 ```diff
 + 🎓  Specialization in Software Engineering — ENSA Kénitra (since Jan 2026)
++ 🛒  Shipped Zouhir Shop — production e-commerce on Next.js 16 + Supabase
 + 🧠  Deepening Computer Vision & Transformer architectures
 + 🛠️  Building WeatherDashboard (JavaFX + ML) and Driving Behavior Analysis pipeline
 + 🎨  Leading visual identity for ENSA student clubs and institutional redesigns
 + 🤝  Open to internships & graduate opportunities (2026 / 2027)
 ```
+
 
 <br/>
 
@@ -270,7 +300,7 @@ Full overhaul of the **ENSA Kénitra** institutional website — UX audit, redes
 <a href="mailto:elmrabethossam@gmail.com">
   <img src="https://img.shields.io/badge/-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/hossam-el-mrabet/">
+<a href="https://www.linkedin.com/in/hossam-el-mrabet-793b70367/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/ElMrabetHossam">
